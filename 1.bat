@@ -1,0 +1,2 @@
+cls
+python Secure_Calculator_Pro.py
