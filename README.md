@@ -14,7 +14,6 @@
 
 ## 产品概述
 
-
 ![image](https://github.com/user-attachments/assets/fe4edbd4-808f-40b2-a7c9-e87b7155aeb0)
 
 ![image](https://github.com/user-attachments/assets/957794e2-c493-4a6d-986a-7cd0a3e1d5b5)
@@ -26,7 +25,6 @@
 ![image](https://github.com/user-attachments/assets/31961696-eec1-4c4a-a3d2-efe1e5599dc0)
 
 ![image](https://github.com/user-attachments/assets/a6b0ea8a-5b50-4822-a84b-22da5f938bc4)
-
 
 ### 1.1 软件简介
 安全公式计算器 Pro Max 是一款功能强大的数学计算工具，支持复杂数学表达式计算、变量管理、历史记录等功能。采用安全评估机制，防止恶意代码执行。
@@ -190,3 +188,12 @@ P*(1+r)**n
 ---
 
 本说明书由杜玛编写，版权无限期所有。软件功能可能随版本更新而变化，恕不另行通知。
+
+## 许可
+
+本项目采用 **GNU Affero General Public License v3.0（AGPL-3.0）** 发布。
+
+- 完整许可证条文见仓库根目录 [LICENSE](LICENSE)。
+- 你可以自由使用、修改、分发，包括用于商业用途，无需另行获得授权。
+- 若你修改后分发，或以网络服务方式提供本软件，必须按 AGPL-3.0 公开相应源代码。
+- 本仓库自 2026-11-23 起改用 AGPL-3.0；此前已按 MIT / BSD-3-Clause 发布的版本，其接收者依原许可证获得的授权继续有效。
